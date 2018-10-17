@@ -3,4 +3,5 @@
  */
 public class FirstClassFile {
     private int count =0;
+    private int secondCount = 0;
 }
