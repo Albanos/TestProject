@@ -7,6 +7,5 @@ public class FirstClassFile {
     private int variableBranch = 0;
     private int zweiteVariableBranch = 0;
     private int x;
-    private int variableBranch = 0;
-    private int zweiteVariableBranch = 0;
+    private int y;
 }
