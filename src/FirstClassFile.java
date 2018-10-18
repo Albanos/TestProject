@@ -3,16 +3,5 @@
  */
 public class FirstClassFile {
     private int count =0;
-    private int secondCount = 0;
-    private int variableBranch = 0;
-    private int zweiteVariableBranch = 0;
-    private int x;
-    private int y;
-    private int z;
-    private float j;
-
-    public void ersteMethodeMaster(){
-
-    }
 
 }
