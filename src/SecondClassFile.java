@@ -5,4 +5,12 @@ public class SecondClassFile {
     private int a;
     private int b;
     private int c;
+
+    public void ersteMethodeFuerBranch(){
+
+    }
+
+    public void zweiteMethodeFuerBranch(){
+
+    }
 }
