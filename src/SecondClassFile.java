@@ -6,5 +6,4 @@ public class SecondClassFile {
     private int b;
     private int c;
 
-
 }
