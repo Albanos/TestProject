@@ -5,4 +5,6 @@ public class SecondClassFile {
     private int a;
     private int b;
     private int c;
+
+
 }
