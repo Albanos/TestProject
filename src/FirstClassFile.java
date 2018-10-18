@@ -11,4 +11,7 @@ public class FirstClassFile {
     private int z;
     private float j;
 
+    public void ersteMethodeMaster(){
+
+    }
 }
