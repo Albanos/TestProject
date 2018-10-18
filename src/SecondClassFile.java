@@ -9,4 +9,8 @@ public class SecondClassFile {
     public void ersteMethodeFuerBranch(){
 
     }
+
+    public void zweiteMethodeFuerBranch(){
+
+    }
 }
