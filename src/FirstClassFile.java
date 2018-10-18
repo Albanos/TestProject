@@ -10,5 +10,4 @@ public class FirstClassFile {
     private int y;
     private int z;
     private float j;
-
 }
