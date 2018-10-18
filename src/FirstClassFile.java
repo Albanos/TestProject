@@ -11,4 +11,5 @@ public class FirstClassFile {
     private int z;
     private float b;
     private int c;
+    private int a;
 }
