@@ -3,4 +3,5 @@
  */
 public class SecondClassFile {
     public void ersteMethode(){}
+    public void zweiteMethode(){}
 }
