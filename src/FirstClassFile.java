@@ -3,4 +3,5 @@
  */
 public class FirstClassFile {
     public void ersteMethodeMaster(){}
+    public void zweiteMethodeMaster(){}
 }
